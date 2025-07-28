@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta  charset="UTF-8">
+	<title>Peijun | Portfolio</title>
+	<link rel="stylesheet" href="{{ url_for('static', filename='stle.css') }}">
+</head>
+<body>
+	<div class="container">
+		<h1>Hello, I'm <span>Peijun</span></h1>
+		<p>I'm a cover artist who starts out from 0 knowledge in music and experience.</p>
+		
+		<h2>Projects</h2>
+		<ul>
+			<li><strong>ANGELOS KACB</li>
+			<li><strong>VERBLUE</li>
+		</ul>
+		
+		<h2>Contact</h2>
+		<p>Email: peijunpj02@gmail.com</p>
+	</div>
+</body>
+</head>
